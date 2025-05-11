@@ -170,7 +170,7 @@ const totalDocuments = computed(() => {
           <div class="dashboard-panel document-map">
             <h3>{{ t('home.dashboard.documentMap') }}</h3>
             <div class="map-container">
-              <img alt="laos map" src="../assets/laomap.png" width="300" height="300" />
+              <img alt="laos map" src="../assets/Vientianemap.png" height="300" />
             </div>
 
             <div class="map-total-documents">
