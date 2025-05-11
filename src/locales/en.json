@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "Lao UPIS",
+    "fullTitle": "Lao Urban Planning Information System"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "legalDatabase": "Legal Database"
+  },
+  "home": {
+    "subtitle": "Digitizing urban planning documents for efficient workflow",
+    "viewProjects": "View Projects",
+    "dashboard": {
+      "recentProjects": "Recent Projects",
+      "viewAll": "View All Projects",
+      "vientianePlans": "Vientiane City Planning Status",
+      "viewAllPlans": "View All Plans",
+      "totalPlans": "Total Plans",
+      "documentMap": "Vientiane District Document Distribution",
+      "projects": "Projects",
+      "documents": "Documents",
+      "documentStats": "Document Statistics",
+      "totalDocuments": "Total Documents"
+    },
+    "features": {
+      "documentStorage": {
+        "title": "Document Storage",
+        "description": "Securely store all urban planning documents in one centralized location"
+      },
+      "organizedWorkflow": {
+        "title": "Organized Workflow",
+        "description": "Documents organized according to the 8 tasks of Lao urban planning process"
+      },
+      "easyAccess": {
+        "title": "Easy Access",
+        "description": "Access your documents anytime, anywhere through a web browser"
+      }
+    }
+  },
+  "projects": {
+    "title": "Urban Planning Projects",
+    "newProject": "+ New Project",
+    "search": "Search projects...",
+    "filters": {
+      "type": "Type",
+      "status": "Status",
+      "district": "district",
+      "allTypes": "All Types",
+      "allStatuses": "All Statuses",
+      "alldistricts": "All districts",
+      "clearFilters": "Clear Filters"
+    },
+    "list": {
+      "showing": "Showing {count} of {total} projects",
+      "projectName": "Project Name",
+      "type": "Type",
+      "status": "Status",
+      "lastUpdated": "Last Updated",
+      "progress": "Progress",
+      "noProjects": "No projects found. Try adjusting your search criteria or",
+      "clearFilters": "clear all filters",
+      "taskProgress": "Task {current} of {total}"
+    },
+    "status": {
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "notStarted": "Not Started"
+    },
+    "types": {
+      "masterPlan": "Master Plan",
+      "detailedPlan": "Detailed Plan"
+    }
+  },
+  "projectDetail": {
+    "backToProjects": "Back to Projects",
+    "description": "Description",
+    "projectTeam": "Project Team",
+    "projectProgress": "Project Progress",
+    "taskProgress": "Task {current} of {total}",
+    "urbanPlanningTasks": "Urban Planning Tasks",
+    "taskStatus": {
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "notStarted": "Not Started"
+    },
+    "task": {
+      "task": "Task",
+      "viewDetails": "View Details",
+      "completed": "Completed",
+      "documents": "{count} Document(s)",
+      "noDocuments": "No documents uploaded"
+    },
+    "projectInfo": {
+      "type": "Type",
+      "location": "Location",
+      "client": "Client",
+      "startDate": "Start Date",
+      "lastUpdated": "Last Updated",
+      "budget": "Budget"
+    }
+  },
+  "taskDetail": {
+    "backToProject": "Back to Project",
+    "description": "Description",
+    "subtasks": "Subtasks",
+    "documents": "Documents",
+    "uploadDocument": "Upload Document",
+    "documentType": "Document Type",
+    "selectDocType": "Select document type",
+    "docTypes": {
+      "contract": "Contract Document",
+      "survey": "Survey Report",
+      "minutes": "Meeting Minutes",
+      "plan": "Planning Document",
+      "map": "Map/GIS Data",
+      "other": "Other"
+    },
+    "documentName": "Document Name",
+    "uploadedBy": "Uploaded By",
+    "date": "Date",
+    "size": "Size",
+    "actions": "Actions",
+    "noDocuments": "No documents have been uploaded for this task.",
+    "upload": {
+      "title": "Upload Document",
+      "selectDocument": "Select Document",
+      "selected": "Selected",
+      "description": "Description",
+      "enterDescription": "Enter a description for this document",
+      "progress": "Complete",
+      "cancel": "Cancel",
+      "upload": "Upload"
+    }
+  }
+}

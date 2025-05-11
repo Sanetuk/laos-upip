@@ -1,0 +1,136 @@
+{
+  "app": {
+    "title": "라오스 UPIS",
+    "fullTitle": "라오스 도시계획 정보 시스템"
+  },
+  "nav": {
+    "home": "홈",
+    "projects": "프로젝트",
+    "legalDatabase": "법률 데이터베이스"
+  },
+  "home": {
+    "subtitle": "효율적인 워크플로우를 위한 도시계획 문서 디지털화",
+    "viewProjects": "프로젝트 보기",
+    "dashboard": {
+      "recentProjects": "최근 프로젝트",
+      "viewAll": "모든 프로젝트 보기",
+      "vientianePlans": "비엔티안 도시 계획 현황",
+      "viewAllPlans": "모든 계획 보기",
+      "totalPlans": "총 계획 수",
+      "documentMap": "비엔티안 구역별 문서 분포",
+      "projects": "프로젝트",
+      "documents": "문서",
+      "documentStats": "문서 통계",
+      "totalDocuments": "총 문서"
+    },
+    "features": {
+      "documentStorage": {
+        "title": "문서 저장소",
+        "description": "모든 도시계획 문서를 중앙 집중식 위치에 안전하게 저장"
+      },
+      "organizedWorkflow": {
+        "title": "체계적인 워크플로우",
+        "description": "라오스 도시계획 과정의 8단계에 따라 구성된 문서"
+      },
+      "easyAccess": {
+        "title": "쉬운 접근성",
+        "description": "웹 브라우저를 통해 언제 어디서나 문서에 접근 가능"
+      }
+    }
+  },
+  "projects": {
+    "title": "도시계획 프로젝트",
+    "newProject": "+ 새 프로젝트",
+    "search": "프로젝트 검색...",
+    "filters": {
+      "type": "유형",
+      "status": "상태",
+      "district": "지구",
+      "allTypes": "모든 유형",
+      "allStatuses": "모든 상태",
+      "alldistricts": "모든 지구",
+      "clearFilters": "필터 초기화"
+    },
+    "list": {
+      "showing": "{total}개 중 {count}개 프로젝트 표시",
+      "projectName": "프로젝트 이름",
+      "type": "유형",
+      "status": "상태",
+      "lastUpdated": "최종 업데이트",
+      "progress": "진행 상황",
+      "noProjects": "프로젝트를 찾을 수 없습니다. 검색 조건을 조정하거나",
+      "clearFilters": "필터를 초기화하세요",
+      "taskProgress": "{total}개 중 {current}번 작업"
+    },
+    "status": {
+      "completed": "완료됨",
+      "inProgress": "진행 중",
+      "notStarted": "시작되지 않음"
+    },
+    "types": {
+      "masterPlan": "마스터 플랜",
+      "detailedPlan": "상세 계획"
+    }
+  },
+  "projectDetail": {
+    "backToProjects": "프로젝트 목록으로 돌아가기",
+    "description": "설명",
+    "projectTeam": "프로젝트 팀",
+    "projectProgress": "프로젝트 진행 상황",
+    "taskProgress": "{total}개 중 {current}번 작업",
+    "urbanPlanningTasks": "도시계획 작업",
+    "taskStatus": {
+      "completed": "완료됨",
+      "inProgress": "진행 중",
+      "notStarted": "시작되지 않음"
+    },
+    "task": {
+      "task": "작업",
+      "viewDetails": "세부 정보 보기",
+      "completed": "완료일",
+      "documents": "문서 {count}개",
+      "noDocuments": "업로드된 문서 없음"
+    },
+    "projectInfo": {
+      "type": "유형",
+      "location": "위치",
+      "client": "클라이언트",
+      "startDate": "시작일",
+      "lastUpdated": "최종 업데이트",
+      "budget": "예산"
+    }
+  },
+  "taskDetail": {
+    "backToProject": "프로젝트로 돌아가기",
+    "description": "설명",
+    "subtasks": "하위 작업",
+    "documents": "문서",
+    "uploadDocument": "문서 업로드",
+    "documentType": "문서 유형",
+    "selectDocType": "문서 유형 선택",
+    "docTypes": {
+      "contract": "계약 문서",
+      "survey": "조사 보고서",
+      "minutes": "회의록",
+      "plan": "계획 문서",
+      "map": "지도/GIS 데이터",
+      "other": "기타"
+    },
+    "documentName": "문서 이름",
+    "uploadedBy": "업로더",
+    "date": "날짜",
+    "size": "크기",
+    "actions": "작업",
+    "noDocuments": "이 작업에 업로드된 문서가 없습니다.",
+    "upload": {
+      "title": "문서 업로드",
+      "selectDocument": "문서 선택",
+      "selected": "선택됨",
+      "description": "설명",
+      "enterDescription": "이 문서에 대한 설명 입력",
+      "progress": "완료",
+      "cancel": "취소",
+      "upload": "업로드"
+    }
+  }
+}
