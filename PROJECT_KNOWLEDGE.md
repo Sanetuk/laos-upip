@@ -1,6 +1,6 @@
-# Lao Urban Planning Information System (UPIS) - Project Knowledge
+# Lao Urban Planning Information System (upip) - Project Knowledge
 
-This document serves as a knowledge base for the Lao UPIS project, documenting key design decisions, implementations, and development history.
+This document serves as a knowledge base for the Lao upip project, documenting key design decisions, implementations, and development history.
 
 ## Session Summary - April 30, 2025
 
@@ -13,7 +13,7 @@ This document serves as a knowledge base for the Lao UPIS project, documenting k
 
 2. **UI Development**
    - Designed a clean, modern interface with consistent styling
-   - Created a fixed navigation bar with the Lao UPIS logo
+   - Created a fixed navigation bar with the Lao upip logo
    - Implemented responsive layouts for all pages
    - Added a link to the Lao Legal Database for quick reference
 

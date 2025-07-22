@@ -1,10 +1,10 @@
-# Lao Urban Planning Information System (UPIS)
+# Lao Urban Planning Information System (upip)
 
-This project is a prototype for the Lao Urban Planning Information System (UPIS), designed to demonstrate the potential of a document storage and management system for urban planning workflows in Laos.
+This project is a prototype for the Lao Urban Planning Information System (upip), designed to demonstrate the potential of a document storage and management system for urban planning workflows in Laos.
 
 ## Project Overview
 
-The UPIS prototype demonstrates:
+The upip prototype demonstrates:
 
 1. **Project Management** - View and manage urban planning projects
 2. **Task-Based Organization** - Documents organized according to the 8 tasks of the Lao urban planning process

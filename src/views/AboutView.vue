@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-const systemName = ref('Lao Urban Planning Information System (UPIS)')
+const systemName = ref('Lao Urban Planning Information System (upip)')
 </script>
 
 <template>
@@ -12,9 +12,9 @@ const systemName = ref('Lao Urban Planning Information System (UPIS)')
     
     <div class="about-section">
       <h2>Project Overview</h2>
-      <p>The Lao Urban Planning Information System (UPIS) is designed to digitize and streamline the urban planning workflow in Laos. This system aims to transition from traditional paper-based documentation to a more efficient digital platform.</p>
+      <p>The Lao Urban Planning Information Platform (upip) is designed to digitize and streamline the urban planning workflow in Laos. This system aims to transition from traditional paper-based documentation to a more efficient digital platform.</p>
       
-      <p>Currently in its initial phase, the UPIS focuses on secure document storage and organization, making it easier for urban planning professionals to save, access, and share important documents throughout the planning process.</p>
+      <p>Currently in its initial phase, the upip focuses on secure document storage and organization, making it easier for urban planning professionals to save, access, and share important documents throughout the planning process.</p>
     </div>
     
     <div class="about-section">
@@ -115,7 +115,7 @@ const systemName = ref('Lao Urban Planning Information System (UPIS)')
     
     <div class="about-section">
       <h2>Future Development</h2>
-      <p>While the current phase focuses on document storage, future developments of the UPIS may include:</p>
+      <p>While the current phase focuses on document storage, future developments of the upip may include:</p>
       
       <ul class="future-list">
         <li>GIS integration for spatial data visualization and analysis</li>
